@@ -10,23 +10,22 @@
 
 * 我个人推荐这款，性价比较高
 
-![img](file:///C:\Users\lo\AppData\Roaming\Tencent\Users\768693436\QQ\WinTemp\RichOle\4LJP`%UWU}[E_E9{H(C)GQM.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/0kbmal7Kj5.png?imageslim)
 
-* 切记一定要选kvm
+* 切记一定要选kvm![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/Fdhik4LEBL.png?imageslim)
 
-  ![QQ截图20170930131527](C:\Users\lo\Pictures\QQ截图20170930131527.png)
 
 * 接着billing cycle自己选择购买时长，location选择节点，最后点击add to cart
 
-  ![QQ截图20170930131649](C:\Users\lo\Pictures\QQ截图20170930131649.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/IG6kKeH0ah.png?imageslim)
 
 * promotional code可以输入优惠码，网上找个优惠多的填写，然后点击check out
 
-  ![QQ截图20170930131929](C:\Users\lo\Pictures\QQ截图20170930131929.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/gB720d43d7.png?imageslim)
 
 * 最后付款方式可以选择支付宝支付，即Alipay
 
-  ![QQ截图20170930132156](C:\Users\lo\Pictures\QQ截图20170930132156.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/5Bb6dBGIj9.png?imageslim)
 
 * 至此，vps的购买已完成
 
@@ -36,19 +35,19 @@
 
 * 点击client area
 
-  ![QQ截图20170930132957](C:\Users\lo\Pictures\QQ截图20170930132957.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/1hdkbKbi34.png?imageslim)
 
 * 选择service里的myservice
 
-  ![QQ截图20170930133553](C:\Users\lo\Pictures\QQ截图20170930133553.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/9K8480feD6.png?imageslim)
 
 * 选择kivivm control panel
 
-  ![QQ截图20170930133137](C:\Users\lo\Pictures\QQ截图20170930133137.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/Fl7ACF9cDD.png?imageslim)
 
 * 选择shadowsocks server
 
-  ![QQ截图20170930133249](C:\Users\lo\Pictures\QQ截图20170930133249.png)
+  ![mark](http://ox2x7j4is.bkt.clouddn.com/blog/170930/BH6J7bKlbJ.png?imageslim)
 
 * 接着点击安装即可
 
